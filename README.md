@@ -17,7 +17,6 @@
 * cd server
 * npm install
 * nodemon.json file and add env configuration for mondoDB access, setup bellow
-* nodemon app.js
 
 * {
   * "env": {
@@ -26,5 +25,7 @@
    * "MONGO_DB": "XXXXXXXXXXX"
   * }
 * }
+
+* nodemon app.js
 
 ### Enjoy :)
