@@ -20,11 +20,11 @@
 * nodemon app.js
 
 * {
-  "env": {
-    "MONGO_USER": "XXXXXXXX",
-    "MONGO_PASSWORD": "XXXXXXXXXXX",
-    "MONGO_DB": "XXXXXXXXXXX"
-  }
+  * "env": {
+   * "MONGO_USER": "XXXXXXXX", 
+   * "MONGO_PASSWORD": "XXXXXXXXXXX",
+   * "MONGO_DB": "XXXXXXXXXXX"
+  * }
 * }
 
 ### Enjoy :)
